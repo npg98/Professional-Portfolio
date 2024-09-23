@@ -11,7 +11,7 @@ I have honed my knowledge through a blend of Microsoft **courses** and most **se
 Throughout my journey, I have gained proficiency and qualified in **AZ-900**, **DP-900** and **DP-203**:
 
 - **Cloud Computing with Microsoft Azure** 
-- **Programming:** Writing scalable scripts and automation using Python, SQL, T-SQL, and KCL.
+- **Programming:** Writing scalable scripts and automation using Python, SQL, T-SQL, and KQL.
 - **Data Engineering:** Designing and implementing end-to-end data pipelines and workflows.
 - **Data Visualization:** Creating effective data dashboards to derive business insights.
 - **Problem Solving:** Handling real-world data challenges using a combination of technology and logic.
